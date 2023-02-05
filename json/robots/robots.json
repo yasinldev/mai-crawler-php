@@ -1,6 +1,7 @@
 {
     "comments": [
-        "# this is eg.\n"
+        "# If you would like to crawl GitHub contact us via https:\/\/support.github.com?tags=dotcom-robots\n",
+        "# We also provide an extensive API: https:\/\/docs.github.com\n"
     ],
     "disallow": [
         "\/*\/pulse\n",
@@ -63,6 +64,7 @@
     "allow": [
         "\/*?tab=achievements&achievement=*\n"
     ],
+    "empty_lines": 0,
     "useragent": "*\n",
     "crawl_delay": 0
 }
